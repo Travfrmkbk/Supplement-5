@@ -1,0 +1,11 @@
+/Users/tj/Shape3DTwo/Shape3D/obj/Debug/net8.0/Shape3D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Shape3DTwo/Shape3D/obj/Debug/net8.0/Shape3D.AssemblyInfoInputs.cache
+/Users/tj/Shape3DTwo/Shape3D/obj/Debug/net8.0/Shape3D.AssemblyInfo.cs
+/Users/tj/Shape3DTwo/Shape3D/obj/Debug/net8.0/Shape3D.csproj.CoreCompileInputs.cache
+/Users/tj/Shape3DTwo/Shape3D/bin/Debug/net8.0/Shape3D.deps.json
+/Users/tj/Shape3DTwo/Shape3D/bin/Debug/net8.0/Shape3D.dll
+/Users/tj/Shape3DTwo/Shape3D/bin/Debug/net8.0/Shape3D.pdb
+/Users/tj/Shape3DTwo/Shape3D/obj/Debug/net8.0/Shape3D.dll
+/Users/tj/Shape3DTwo/Shape3D/obj/Debug/net8.0/refint/Shape3D.dll
+/Users/tj/Shape3DTwo/Shape3D/obj/Debug/net8.0/Shape3D.pdb
+/Users/tj/Shape3DTwo/Shape3D/obj/Debug/net8.0/ref/Shape3D.dll
